@@ -1,0 +1,1454 @@
+﻿[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.1"]
+[White "Soler Caballero, Juan"]
+[Black "Trujillo Morales, Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "35"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d6 6. Nxd4 Be7 7. Nc3 O-O 8.
+Re1 Nxd4 9. Qxd4 a6 10. a4 Be6 11. Bf1 Nd7 12. Be3 Bf6 13. Qd2 g6 14. Rad1 Bg7
+15. h3 f5 16. exf5 Bxf5 17. g4 $18 Bxg4 18. hxg4 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.2"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Campos Parejo, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "2037"]
+[PlyCount "62"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 Bg7 5. c3 b6 6. Qb3 O-O 7. Nbd2 d5 8. dxc5
+bxc5 9. c4 e6 10. Qb5 Na6 11. a3 Rb8 12. Qa4 Qb6 13. Rb1 Bd7 14. Qc2 Rfc8 15.
+Ne5 Be8 16. b3 Nd7 17. Nef3 f5 18. Bb2 e5 19. cxd5 e4 20. Bxa6 Qxa6 21. Ng5 Ne5
+22. Bxe5 Bxe5 23. Nc4 Bf6 24. Ne6 Bf7 25. O-O Bxe6 26. dxe6 Qxe6 27. Rfd1 Rd8
+28. Rd2 Rxd2 29. Nxd2 Rd8 30. Rc1 Kf7 31. Qc4 Rxd2 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.3"]
+[White "Barrios Muñoz, Rafael Carlos"]
+[Black "Hidalgo Lozano, Juan Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2008"]
+[BlackElo "1464"]
+[PlyCount "55"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nc2 Bxc3+ 7. bxc3 Nf6
+8. f3 d6 9. e4 e5 10. Bd3 Be6 11. O-O Na5 12. Ne3 Rc8 13. Qa4+ Bd7 14. Qb4 Qc7
+15. Ba3 Qc5 16. Qxc5 dxc5 17. Nd5 Nxd5 18. cxd5 b5 19. Rab1 a6 20. f4 f6 21.
+fxe5 fxe5 22. Rf6 c4 23. Be2 Ra8 24. Rbf1 Kd8 25. Bd6 Ra7 26. Rf8+ Rxf8 27.
+Rxf8+ Be8 28. Bxe5 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.4"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1998"]
+[PlyCount "68"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. g3 e5 7. Nb3 b5 8. Bg5
+Nbd7 9. Nd5 Bb7 10. Bg2 Bxd5 11. exd5 Be7 12. O-O O-O 13. Qd2 Rc8 14. Bxf6 Bxf6
+15. Be4 Nc5 16. Nxc5 Rxc5 17. b3 Bg5 18. Qd3 g6 19. c4 f5 20. Bg2 e4 21. Qc2
+Qc7 22. f3 exf3 23. Bxf3 bxc4 24. b4 Rb5 25. Rab1 Qb6+ 26. Kg2 Rxb4 27. Be2 Rc8
+28. Rxb4 Qxb4 29. Rb1 Qc5 30. Bf3 Qa3 31. Rb6 Bf6 32. Rc6 Rb8 33. Kh3 Qxf3 34.
+Qg2 Qh5# 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.5"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Rivero Mohedano, Pablo Angel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1315"]
+[PlyCount "47"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 Be6 10. Nc4 b5 11. Ne3 Bh6 12. Ncd5 Bxd5 13. Nxd5 Qa5+ 14. c3
+b4 15. Bc4 bxc3 16. bxc3 Bg7 17. Qg4 Kf8 18. O-O Ne7 19. Nxe7 Qxc3 20. Bd5 h5
+21. Qd7 Re8 22. Nf5 Kg8 23. Qxf7+ Kh7 24. Qxg7# 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.6"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Marañon Canton, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1894"]
+[Annotator "ACamposP"]
+[PlyCount "62"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d6 6. O-O a6 7. Re1 Nc6 8. d5
+Na5 9. Qa4 c5 10. Bd2 b6 11. Bxa5 bxa5 12. Nc3 Rb8 13. Rab1 Rb4 14. Qc2 Rxc4
+15. Nd2 Rb4 16. a3 Rb8 17. Qc1 Bd7 18. Nc4 Bb5 19. Ne3 a4 20. Qd1 Qa5 21. Nc2
+Bd7 22. e4 Rb3 23. Na1 Rb6 24. e5 dxe5 25. Rxe5 Bf5 26. Nc2 Rfb8 27. Rc1 Rxb2
+28. Ne3 R2b3 29. Nxf5 gxf5 30. Ne2 Rxa3 31. Rxe7 Rab3 {, y aquí se dejaron de
+apuntar jugadas. Tras los apuros, la partida terminó en tablas.} 1/2-1/2
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.7"]
+[White "Serrano Rodriguez, Juan Jose"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1819"]
+[Annotator "ACamposP"]
+[PlyCount "80"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Ne5 5. Be2 d6 6. Nc3 Nf6 7. O-O h6 8.
+Re1 a6 9. Nf5 g6 10. Ne3 Be6 11. f4 Nc6 12. f5 gxf5 13. exf5 Bd7 14. Ncd5 Ne5
+15. b3 Bc6 16. c4 Rg8 17. Bb2 Nxd5 18. cxd5 Bd7 19. Bxe5 dxe5 20. Bf3 Qg5 21.
+Nc4 O-O-O 22. Nxe5 Bc5+ 23. Kh1 Rdf8 24. Nxd7 Kxd7 25. Qd3 f6 26. Rac1 Bd6 27.
+Rc4 b5 28. Rg4 Qxg4 29. Bxg4 Rxg4 30. Qe2 Rh4 31. Qe6+ Kd8 32. g3 Rb4 33. Kg2
+h5 34. Qe3 h4 35. Qa7 Kd7 36. Qxa6 Rg4 37. Qxb5+ Kc8 38. a4 Rfg8 39. a5 Rd4 40.
+a6 Rd2+ {, no hay más jugadas. Ganaron blancas.} 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Soler Caballero, Juan"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2115"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.2"]
+[White "Campos Parejo, Antonio"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2037"]
+[BlackElo "1916"]
+[Annotator "ACamposP"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. Nc3 Bg4 5. Bg5 Qd7 6. exd6 Bxd6 7. Nb5 Bb4+
+8. c3 Ba5 9. Qxd7+ Bxd7 10. O-O-O f6 11. Be3 a6 12. Na3 b5 13. b4 Bb6 14. Bxb6
+cxb6 15. e3 Nh6 16. h3 Ke7 17. Kb2 Rhc8 18. Nc2 Ra7 19. e4 Ne5 20. Nxe5 fxe5
+21. Ne3 Be6 22. Be2 Rac7 23. Rc1 Nf7 24. Bg4 Nd6 25. Bxe6 Kxe6 26. f3 a5 27. a3
+a4 28. Rhd1 g6 29. Rd3 Nc4+ 30. Nxc4 bxc4 31. Rd5 Rd7 32. Rcd1 Rcd8 33. Rxd7
+Rxd7 34. Rxd7 Kxd7 35. Kc2 {y siguió algunas jugadas más. Se ganó el final
+por el peón de más.} 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.3"]
+[White "Serrano Rodriguez, Juan Jose"]
+[Black "Barrios Muñoz, Rafael Carlos"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1819"]
+[BlackElo "2008"]
+[Annotator "ACamposP"]
+[PlyCount "17"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. dxe5 dxe5 8.
+h3 c6 9. Be3 {, y la planilla no se entiende. Ganaron negras.} 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.4"]
+[White "Marañon Canton, Antonio"]
+[Black "Trujillo Morales, Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+{No hay planilla.}  1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.5"]
+[White "Hidalgo Lozano, Juan Antonio"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1464"]
+[BlackElo "1252"]
+[PlyCount "92"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be6 8. Bd3
+Be7 9. O-O O-O 10. h3 Nc6 11. Bg5 h6 12. Bxf6 Bxf6 13. Nd5 Rc8 14. c4 Ne7 15.
+b3 b5 16. Re1 Rb8 17. Nxf6+ gxf6 18. cxb5 axb5 19. Qd2 Kg7 20. Nh4 Ng6 21. Nf5+
+Bxf5 22. exf5 Ne7 23. Re4 Rh8 24. Rg4+ Kf8 25. Rc1 Qd7 26. Qc2 Rc8 27. Qb1
+Rxc1+ 28. Qxc1 Nxf5 29. Rb4 Nd4 30. Qf1 Rg8 31. Kh1 Ke7 32. Bxb5 Nxb5 33. Qxb5
+Rc8 34. Qxd7+ Kxd7 35. f3 d5 36. Ra4 d4 37. Kg1 f5 38. Kf2 Rc2+ 39. Kf1 d3 40.
+Ra7+ Ke6 41. Ra6+ Ke7 42. Ra7+ Kf6 43. Rd7 e4 44. fxe4 fxe4 45. Ke1 Rxa2 46.
+Rd4 Ke5 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.6"]
+[White "Rivero Mohedano, Pablo Angel"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1315"]
+[BlackElo "1562"]
+[PlyCount "38"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 d5 3. e3 Bf5 4. Nc3 c6 5. Nf3 e6 6. cxd5 exd5 7. Bd3 Be6 8. O-O
+Bd6 9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 Nd7 12. Re1 O-O 13. Qc2 f5 14. Bd3 Bd5
+15. Ng5 h6 16. Ne6 Qh4 17. g3 Qh3 18. Bf1 Qg4 19. Nxf8 Qf3 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.7"]
+[White "Gonzalez Garrido, Manuel"]
+[Black "Rocamora Jimenez, Joaquin"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1359"]
+[Annotator "ACamposP"]
+[PlyCount "63"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. Ne2 Nf6 6. c3 O-O 7. O-O d5 8. exd5
+Nxd5 9. Bb3 Bg4 10. Ng3 Ne5 11. Re1 c4 12. d4 Nxf3+ 13. gxf3 cxb3 14. fxg4 Qb6
+15. axb3 Rac8 16. c4 Nb4 17. Be3 Rfd8 18. d5 Qf6 19. Qd2 a5 20. Rxa5 Na6 21.
+Rb1 e6 22. Ne4 Qe5 23. f3 f5 24. gxf5 gxf5 25. Bf4 Qd4+ 26. Qxd4 Bxd4+ 27. Kf1
+fxe4 28. fxe4 exd5 29. Rxd5 Rxd5 30. exd5 Nc5 31. Rd1 Nxb3 32. Rd3 {no hay mas
+jugadas. Ganaron las negras.} 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.1"]
+[White "Barrios Muñoz, Rafael Carlos"]
+[Black "Campos Parejo, Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2008"]
+[BlackElo "2037"]
+[PlyCount "35"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. g3 Bb7 6. Bg2 a5 7. O-O O-O 8. a3
+Be7 9. b3 c5 10. Bb2 Qc7 11. Qc2 Nc6 12. e4 d6 13. d5 Nd4 14. Bxd4 cxd4 15.
+Nxd4 exd5 16. exd5 Nd7 17. Nb5 Qc5 18. Ne4 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.2"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1998"]
+[PlyCount "42"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 Nbd7 7. Nc3 e5 8. e3
+c6 9. Re1 e4 10. Nd2 d5 11. Qb3 Nb6 12. cxd5 cxd5 13. a4 a5 14. Qc2 Bf5 15. Nb3
+Nc4 16. Nc5 b6 17. Nb3 Rc8 18. Bd2 Qd7 19. Rac1 Bh3 20. Ne2 Nxe3 21. Bxh3 Qxh3
+0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.3"]
+[White "Soler Caballero, Juan"]
+[Black "Marañon Canton, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "1894"]
+[Annotator "ACamposP"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+Be3 O-O 9. Qe2 a6 10. O-O-O Qc7 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14. Rg1 Bb7
+15. Rg3 Rfc8 16. f4 Nc5 17. f5 e5 18. Bxf7+ Kxf7 19. Qh5+ Kg8 20. g6 h6 21.
+Bxh6 gxh6 22. Qxh6 Bf6 23. Rxd6 Nxe4 24. Rxf6 Nxf6 25. g7 Nh7 26. Rh3 {y
+despues de muchas complicaciones en apuros de tiempo, la partida acabo en
+tablas por repeticion de jugadas.} Qxg7 27. Rg3 Qxg3 28. Qe6+ Kh8 29. hxg3 Re8
+30. Qf7 b4 31. Nd5 Rad8 32. Nf6 Nxf6 33. Qxf6+ Kg8 34. Qg6+ Kh8 35. Qh6+ {etc.}
+1/2-1/2
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.4"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1562"]
+[Annotator "ACamposP"]
+[PlyCount "44"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be6 8.
+Be3 Nf6 9. Nc4 Bxc4 10. Bxc4 b5 11. Bb3 b4 12. Nd5 Nxe4 13. Bb6 Qg5 14. O-O Kd7
+15. Be3 Qf5 16. Nb6+ Kc7 17. Nxa8+ Kb7 18. Qd5 Be7 19. Ba4 Rc8 20. Nb6 Rc7 21.
+Nc4 Nf6 22. Bxc6+ Rxc6 {y las negras rindieron.} 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.5"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Rivero Mohedano, Pablo Angel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1315"]
+[Annotator "ACamposP"]
+[PlyCount "45"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 e5 4. Nf3 d6 5. Bxc6+ bxc6 6. O-O Bg4 7. d3 Nf6 8.
+Bg5 h6 9. Be3 d5 10. Ne2 d4 11. Bd2 Bxf3 12. gxf3 Bd6 13. f4 exf4 14. Bxf4 Qc7
+15. Bxd6 Qxd6 16. Ng3 O-O 17. Kh1 Rab8 18. Nf5 Qf4 19. Qc1 Qxc1 20. Raxc1 Rxb2
+21. Rg1 g6 22. Ne7+ Kh7 23. Nxc6 {No hay más jugadas anotadas. Finalmente
+ganaron las negras.} 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.6"]
+[White "Trujillo Morales, Jose"]
+[Black "Herrero Nuño, Fernando"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1026"]
+[Annotator "ACamposP"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+{No hay planilla.}  1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.7"]
+[White "Herrero Peña, Laura"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1055"]
+[PlyCount "49"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Nbd2 e6 5. Bd3 Bd6 6. b3 e5 7. dxe5 Nxe5 8.
+Bb2 Nxd3+ 9. cxd3 Nf6 10. O-O O-O 11. a3 Bf5 12. Qe2 Re8 13. Rfe1 c6 14. Nd4
+Be5 15. Nxf5 Bxb2 16. Rab1 Be5 17. d4 Bc7 18. f3 Qd7 19. e4 Bb6 20. Rbd1 g6 21.
+Nh6+ Kg7 22. Ng4 Bxd4+ 23. Kf1 Nh5 24. Qd3 Bb6 25. Qc3+ 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Barrios Muñoz, Rafael Carlos"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2008"]
+[PlyCount "55"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. c4 c6 3. e3 e6 4. Nf3 f5 5. Bd3 Nf6 6. O-O Bd6 7. b3 Nbd7 8. Ba3
+Qe7 9. Bxd6 Qxd6 10. Nc3 Ne4 11. Bxe4 fxe4 12. Ng5 O-O 13. f3 h6 14. Nh3 Qb4
+15. Rc1 exf3 16. Rxf3 Nf6 17. Nf4 Bd7 18. Ng6 Rf7 19. Ne5 Re7 20. Qc2 Nh7 21.
+Rcf1 Be8 22. c5 b6 23. Na4 b5 24. Nb2 Qa5 25. Nbd3 Qc7 26. Qf2 Bd7 27. Rf7 Rae8
+28. Ng6 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.2"]
+[White "Marañon Canton, Antonio"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1916"]
+[PlyCount "38"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. c4 c6 6. O-O O-O 7. Qc2 Na6 8. a3
+Nc7 9. cxd5 exd5 10. Nbd2 h6 11. Re1 Nb5 12. a4 Nd6 13. b3 Nde4 14. Nxe4 dxe4
+15. Nd2 Bf5 16. Nxe4 Qxd4 17. Nxf6+ Bxf6 18. Qxf5 Qxa1 19. Be4 g6 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.3"]
+[White "Campos Parejo, Antonio"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2037"]
+[BlackElo "1252"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 Nbd7 6. Nbd2 O-O 7. Bc4 Re8 8.
+Bxf7+ Kxf7 9. Ng5+ Kg8 10. Ne6 Nb6 11. Nxd8 Rxd8 12. O-O Bf5 13. g4 Bd7 14. c3
+Nbd5 15. Bg3 Bc6 16. c4 Nb6 17. f4 a6 18. d5 Ba4 19. b3 Bd7 20. e4 h5 21. e5
+Ne8 22. gxh5 Bxh3 23. Rf2 Bf5 24. hxg6 Bxg6 25. f5 Bh7 26. Qg4 dxe5 27. Bxe5
+Nf6 28. Bxf6 exf6 29. Rg2 Rd7 30. Ne4 Rf8 31. Nc5 Re7 32. Ne6 Rff7 33. Kf2 Nd7
+34. Rh1 Ne5 35. Qh3 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.4"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Soler Caballero, Juan"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "2115"]
+[Annotator "ACamposP"]
+[PlyCount "49"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. e3 Bg7 5. Bd3 O-O 6. Ne2 c5 7. c3 b6 8. Ng3
+Nc6 9. O-O Bb7 10. Re1 Rc8 11. Bd2 Qd6 12. b3 Nd7 13. Qe2 e5 14. dxc5 Nxc5 15.
+Bb5 e4 16. Nd4 Ne5 17. b4 Ne6 18. f4 exf3 19. gxf3 Nc4 20. a4 a6 21. Bxc4 dxc4
+22. Rad1 Ng5 23. f4 Nh3+ 24. Kf1 Rfe8 25. Qg4 {no hay más jugadas. La partida
+finalizó con victtoria negra.} 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.5"]
+[White "Trujillo Morales, Jose"]
+[Black "Rocamora Jimenez, Joaquin"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1359"]
+[PlyCount "43"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7 7. Nbd2 c5 8. c3
+Qb6 9. Qb3 Qxb3 10. axb3 Nd5 11. Bh2 a6 12. c4 Nc7 13. d5 e6 14. Bxd6 Re8 15.
+Bxc7 exd5 16. cxd5 b5 17. Kd1 Ra7 18. Bf4 Nb6 19. Bxb5 Bd7 20. Bxd7 Rxd7 21. e4
+Bxb2 22. Rxa6 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.6"]
+[White "Rivero Mohedano, Pablo Angel"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1315"]
+[PlyCount "68"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e3 e6 5. Nf3 Bb4 6. Bxc4 Ne4 7. Bd2 Nd6 8.
+Bd3 O-O 9. O-O f5 10. a3 Ba5 11. b4 Bb6 12. Na4 Nd7 13. Nc5 Nf6 14. Ne5 c6 15.
+f3 Bc7 16. Qc2 b6 17. Nb3 Bb7 18. Nxc6 Qd7 19. Ne5 Qe7 20. Rac1 Rac8 21. Qb1
+Nf7 22. f4 Nxe5 23. dxe5 Ne4 24. Be1 Rfd8 25. Nd2 Nxd2 26. Bxd2 Qh4 27. Rf2 g5
+28. Be1 Qh5 29. Be2 Qg6 30. Bf3 Bxf3 31. Rxf3 g4 32. Rf2 g3 33. hxg3 Qxg3 34.
+Re2 Qxe3+ 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.1"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1998"]
+[Annotator "ACamposP"]
+[PlyCount "41"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. g4 h6 10. Rg1 d5 11. exd5 Nxd5 12. Nxd5 Bxd5 13. Qd2 Nc6 14. O-O-O Bxb3
+15. axb3 Qc7 16. Bc4 Rd8 17. Qe2 Rxd1+ 18. Qxd1 O-O 19. g5 Qa5 20. c3 b5 21.
+Bd5 {No hay más jugadas en la planilla. Las negras ganaron la partida.} 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.2"]
+[White "Soler Caballero, Juan"]
+[Black "Campos Parejo, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "2037"]
+[PlyCount "40"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 Nc6 6. c3 h6 7. O-O Nge7 8. b4
+O-O 9. b5 Na5 10. Bd3 d5 11. Ba3 dxe4 12. Bxe4 Nc4 13. Bb4 Nd6 14. Nbd2 Nef5
+15. Bxd6 cxd6 16. Bxf5 Bxf5 17. Nc4 Rc8 18. Nfd2 Bd3 19. Nb2 Bxf1 20. Nxf1 Rxc3
+0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.3"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Trujillo Morales, Jose"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "45"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 c5 7. e3 O-O 8. Nc3 d5
+9. Nd2 Na6 10. Re1 cxd4 11. exd4 Nb4 12. a3 Nd3 13. Re3 Nxc1 14. Rxc1 Re8 15.
+Re1 Qd7 16. Qa4 Bc6 17. Qb3 Rac8 18. cxd5 Nxd5 19. Nxd5 Bxd5 20. Bxd5 exd5 21.
+Rxc8 Rxc8 22. Nf3 Bf6 23. Kg2 {No se entienden las siguientes jugadas. La
+partida acabo en tablas.} 1/2-1/2
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.4"]
+[White "Marañon Canton, Antonio"]
+[Black "Serrano Rodriguez, Juan Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1819"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.5"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1562"]
+[PlyCount "56"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 e6 4. d3 g6 5. Be3 a6 6. Bxc6 dxc6 7. Nge2 Bd6 8.
+Qd2 b5 9. O-O Be5 10. Bxc5 Qa5 11. Rab1 b4 12. a3 bxc3 13. Bb4 Qc7 14. Qg5
+Bxh2+ 15. Kh1 Be5 16. f4 Bf6 17. Qg3 cxb2 18. f5 Qxg3 19. Nxg3 Rb8 20. Ne2 exf5
+21. exf5 Bxf5 22. Bc3 Bxc3 23. Nxc3 Nh6 24. Na4 O-O 25. Rxb2 Rxb2 26. Nxb2 Re8
+27. c4 Re2 28. Rb1 Rd2 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Campos Parejo, Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2037"]
+[Annotator "ACamposP"]
+[PlyCount "43"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. a4 b4 5. Bg5 Ne4 6. Qd3 Nxg5 7. Nxg5 e6 8. Nxh7
+c4 9. Qxc4 Rxh7 10. dxe6 f5 11. Qd5 Qg5 12. Nd2 Nc6 13. exd7+ Bxd7 14. Nf3 Qf6
+15. O-O-O O-O-O 16. Nd4 Rh4 17. e4 Rxe4 18. Ba6+ Kc7 19. Nb3 Bc8 20. Qb5 Rxd1+
+21. Rxd1 Bxa6 22. Qxa6 $19 {y las negras pierden por tiempo.} 1-0
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.2"]
+[White "Trujillo Morales, Jose"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1916"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.3"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Marañon Canton, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1894"]
+[PlyCount "36"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 g6 5. O-O Bg7 6. Nxd4 cxd4 7. Ne2 e5 8.
+d3 Ne7 9. c3 O-O 10. Bg5 h6 11. Bd2 d5 12. cxd4 exd4 13. Bb4 a6 14. Qa4 Bg4 15.
+f3 axb5 16. Bxe7 Qxe7 17. Qxb5 Be6 18. Nf4 dxe4 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.4"]
+[White "Gonzalez Garrido, Manuel"]
+[Black "Soler Caballero, Juan"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "2115"]
+[PlyCount "66"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bb3 d6 6. c3 Qe7 7. O-O Bg4 8. Nbd2
+O-O-O 9. Bc4 d5 10. Bb5 dxe4 11. dxe4 Nb8 12. Re1 Nh5 13. Qb3 Nf4 14. a4 Qf6
+15. Be2 Rd6 16. Qc4 Rc6 17. Qa2 a5 18. Nc4 Nh3+ 19. gxh3 Bxf3 20. Bxf3 Qxf3 21.
+Be3 Rg6+ 22. Kf1 Qg2+ 23. Ke2 Qxe4 24. Nd2 Qc6 25. Qc4 Bxe3 26. Qxc6 Nxc6 27.
+fxe3 Rg2+ 28. Kd1 Rxh2 29. b4 axb4 30. cxb4 Nxb4 31. a5 Rd8 32. Re2 Rh1+ 33.
+Re1 Rxe1+ 0-1
+
+[Event "II Social Reina Brillante"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.5"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "1252"]
+[PlyCount "78"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e3 d6 5. Bd3 O-O 6. Nge2 Nbd7 7. Bd2 e5 8. b4
+Re8 9. O-O Nb6 10. Qb3 Be6 11. d5 Bd7 12. a4 e4 13. Bc2 c6 14. a5 Nc8 15. Ra2
+Ne7 16. Ng3 cxd5 17. cxd5 Nexd5 18. Nxd5 Nxd5 19. Bxe4 Nf6 20. Qd3 Nxe4 21.
+Nxe4 Be6 22. Rc2 Bf5 23. f3 d5 24. g4 Bxe4 25. fxe4 dxe4 26. Qxd8 Raxd8 27. Rf2
+Rd3 28. Rc7 Rb8 29. Rcxf7 Rxd2 30. Rxg7+ Kxg7 31. Rxd2 h5 32. Rd4 hxg4 33. Rxe4
+Kf6 34. Rxg4 Rd8 35. Kf2 Rd2+ 36. Kg3 Rd1 37. h4 Kf5 38. Rg5+ Ke4 39. Rxg6 Rg1+
+0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.1"]
+[White "Soler Caballero, Juan"]
+[Black "Trujillo Morales, Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "35"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O d6 6. Nxd4 Be7 7. Nc3 O-O 8.
+Re1 Nxd4 9. Qxd4 a6 10. a4 Be6 11. Bf1 Nd7 12. Be3 Bf6 13. Qd2 g6 14. Rad1 Bg7
+15. h3 f5 16. exf5 Bxf5 17. g4 $18 Bxg4 18. hxg4 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.2"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Campos Parejo, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "2037"]
+[PlyCount "62"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 Bg7 5. c3 b6 6. Qb3 O-O 7. Nbd2 d5 8. dxc5
+bxc5 9. c4 e6 10. Qb5 Na6 11. a3 Rb8 12. Qa4 Qb6 13. Rb1 Bd7 14. Qc2 Rfc8 15.
+Ne5 Be8 16. b3 Nd7 17. Nef3 f5 18. Bb2 e5 19. cxd5 e4 20. Bxa6 Qxa6 21. Ng5 Ne5
+22. Bxe5 Bxe5 23. Nc4 Bf6 24. Ne6 Bf7 25. O-O Bxe6 26. dxe6 Qxe6 27. Rfd1 Rd8
+28. Rd2 Rxd2 29. Nxd2 Rd8 30. Rc1 Kf7 31. Qc4 Rxd2 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.3"]
+[White "Barrios Muñoz, Rafael Carlos"]
+[Black "Hidalgo Lozano, Juan Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2008"]
+[BlackElo "1464"]
+[PlyCount "55"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nc2 Bxc3+ 7. bxc3 Nf6
+8. f3 d6 9. e4 e5 10. Bd3 Be6 11. O-O Na5 12. Ne3 Rc8 13. Qa4+ Bd7 14. Qb4 Qc7
+15. Ba3 Qc5 16. Qxc5 dxc5 17. Nd5 Nxd5 18. cxd5 b5 19. Rab1 a6 20. f4 f6 21.
+fxe5 fxe5 22. Rf6 c4 23. Be2 Ra8 24. Rbf1 Kd8 25. Bd6 Ra7 26. Rf8+ Rxf8 27.
+Rxf8+ Be8 28. Bxe5 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.4"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1998"]
+[PlyCount "68"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. g3 e5 7. Nb3 b5 8. Bg5
+Nbd7 9. Nd5 Bb7 10. Bg2 Bxd5 11. exd5 Be7 12. O-O O-O 13. Qd2 Rc8 14. Bxf6 Bxf6
+15. Be4 Nc5 16. Nxc5 Rxc5 17. b3 Bg5 18. Qd3 g6 19. c4 f5 20. Bg2 e4 21. Qc2
+Qc7 22. f3 exf3 23. Bxf3 bxc4 24. b4 Rb5 25. Rab1 Qb6+ 26. Kg2 Rxb4 27. Be2 Rc8
+28. Rxb4 Qxb4 29. Rb1 Qc5 30. Bf3 Qa3 31. Rb6 Bf6 32. Rc6 Rb8 33. Kh3 Qxf3 34.
+Qg2 Qh5# 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.5"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Rivero Mohedano, Pablo Angel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1315"]
+[PlyCount "47"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 Be6 10. Nc4 b5 11. Ne3 Bh6 12. Ncd5 Bxd5 13. Nxd5 Qa5+ 14. c3
+b4 15. Bc4 bxc3 16. bxc3 Bg7 17. Qg4 Kf8 18. O-O Ne7 19. Nxe7 Qxc3 20. Bd5 h5
+21. Qd7 Re8 22. Nf5 Kg8 23. Qxf7+ Kh7 24. Qxg7# 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.6"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Marañon Canton, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1894"]
+[Annotator "ACamposP"]
+[PlyCount "62"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d6 6. O-O a6 7. Re1 Nc6 8. d5
+Na5 9. Qa4 c5 10. Bd2 b6 11. Bxa5 bxa5 12. Nc3 Rb8 13. Rab1 Rb4 14. Qc2 Rxc4
+15. Nd2 Rb4 16. a3 Rb8 17. Qc1 Bd7 18. Nc4 Bb5 19. Ne3 a4 20. Qd1 Qa5 21. Nc2
+Bd7 22. e4 Rb3 23. Na1 Rb6 24. e5 dxe5 25. Rxe5 Bf5 26. Nc2 Rfb8 27. Rc1 Rxb2
+28. Ne3 R2b3 29. Nxf5 gxf5 30. Ne2 Rxa3 31. Rxe7 Rab3 {, y aquí se dejaron de
+apuntar jugadas. Tras los apuros, la partida terminó en tablas.} 1/2-1/2
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "1.7"]
+[White "Serrano Rodriguez, Juan Jose"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1819"]
+[Annotator "ACamposP"]
+[PlyCount "80"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Ne5 5. Be2 d6 6. Nc3 Nf6 7. O-O h6 8.
+Re1 a6 9. Nf5 g6 10. Ne3 Be6 11. f4 Nc6 12. f5 gxf5 13. exf5 Bd7 14. Ncd5 Ne5
+15. b3 Bc6 16. c4 Rg8 17. Bb2 Nxd5 18. cxd5 Bd7 19. Bxe5 dxe5 20. Bf3 Qg5 21.
+Nc4 O-O-O 22. Nxe5 Bc5+ 23. Kh1 Rdf8 24. Nxd7 Kxd7 25. Qd3 f6 26. Rac1 Bd6 27.
+Rc4 b5 28. Rg4 Qxg4 29. Bxg4 Rxg4 30. Qe2 Rh4 31. Qe6+ Kd8 32. g3 Rb4 33. Kg2
+h5 34. Qe3 h4 35. Qa7 Kd7 36. Qxa6 Rg4 37. Qxb5+ Kc8 38. a4 Rfg8 39. a5 Rd4 40.
+a6 Rd2+ {, no hay más jugadas. Ganaron blancas.} 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Soler Caballero, Juan"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2115"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.2"]
+[White "Campos Parejo, Antonio"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2037"]
+[BlackElo "1916"]
+[Annotator "ACamposP"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. Nc3 Bg4 5. Bg5 Qd7 6. exd6 Bxd6 7. Nb5 Bb4+
+8. c3 Ba5 9. Qxd7+ Bxd7 10. O-O-O f6 11. Be3 a6 12. Na3 b5 13. b4 Bb6 14. Bxb6
+cxb6 15. e3 Nh6 16. h3 Ke7 17. Kb2 Rhc8 18. Nc2 Ra7 19. e4 Ne5 20. Nxe5 fxe5
+21. Ne3 Be6 22. Be2 Rac7 23. Rc1 Nf7 24. Bg4 Nd6 25. Bxe6 Kxe6 26. f3 a5 27. a3
+a4 28. Rhd1 g6 29. Rd3 Nc4+ 30. Nxc4 bxc4 31. Rd5 Rd7 32. Rcd1 Rcd8 33. Rxd7
+Rxd7 34. Rxd7 Kxd7 35. Kc2 {y siguió algunas jugadas más. Se ganó el final
+por el peón de más.} 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.3"]
+[White "Serrano Rodriguez, Juan Jose"]
+[Black "Barrios Muñoz, Rafael Carlos"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1819"]
+[BlackElo "2008"]
+[Annotator "ACamposP"]
+[PlyCount "17"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. dxe5 dxe5 8.
+h3 c6 9. Be3 {, y la planilla no se entiende. Ganaron negras.} 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.4"]
+[White "Marañon Canton, Antonio"]
+[Black "Trujillo Morales, Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+{No hay planilla.}  1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.5"]
+[White "Hidalgo Lozano, Juan Antonio"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1464"]
+[BlackElo "1252"]
+[PlyCount "92"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be6 8. Bd3
+Be7 9. O-O O-O 10. h3 Nc6 11. Bg5 h6 12. Bxf6 Bxf6 13. Nd5 Rc8 14. c4 Ne7 15.
+b3 b5 16. Re1 Rb8 17. Nxf6+ gxf6 18. cxb5 axb5 19. Qd2 Kg7 20. Nh4 Ng6 21. Nf5+
+Bxf5 22. exf5 Ne7 23. Re4 Rh8 24. Rg4+ Kf8 25. Rc1 Qd7 26. Qc2 Rc8 27. Qb1
+Rxc1+ 28. Qxc1 Nxf5 29. Rb4 Nd4 30. Qf1 Rg8 31. Kh1 Ke7 32. Bxb5 Nxb5 33. Qxb5
+Rc8 34. Qxd7+ Kxd7 35. f3 d5 36. Ra4 d4 37. Kg1 f5 38. Kf2 Rc2+ 39. Kf1 d3 40.
+Ra7+ Ke6 41. Ra6+ Ke7 42. Ra7+ Kf6 43. Rd7 e4 44. fxe4 fxe4 45. Ke1 Rxa2 46.
+Rd4 Ke5 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.6"]
+[White "Rivero Mohedano, Pablo Angel"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1315"]
+[BlackElo "1562"]
+[PlyCount "38"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 d5 3. e3 Bf5 4. Nc3 c6 5. Nf3 e6 6. cxd5 exd5 7. Bd3 Be6 8. O-O
+Bd6 9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 Nd7 12. Re1 O-O 13. Qc2 f5 14. Bd3 Bd5
+15. Ng5 h6 16. Ne6 Qh4 17. g3 Qh3 18. Bf1 Qg4 19. Nxf8 Qf3 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.04"]
+[Round "2.7"]
+[White "Gonzalez Garrido, Manuel"]
+[Black "Rocamora Jimenez, Joaquin"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1359"]
+[Annotator "ACamposP"]
+[PlyCount "63"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. Ne2 Nf6 6. c3 O-O 7. O-O d5 8. exd5
+Nxd5 9. Bb3 Bg4 10. Ng3 Ne5 11. Re1 c4 12. d4 Nxf3+ 13. gxf3 cxb3 14. fxg4 Qb6
+15. axb3 Rac8 16. c4 Nb4 17. Be3 Rfd8 18. d5 Qf6 19. Qd2 a5 20. Rxa5 Na6 21.
+Rb1 e6 22. Ne4 Qe5 23. f3 f5 24. gxf5 gxf5 25. Bf4 Qd4+ 26. Qxd4 Bxd4+ 27. Kf1
+fxe4 28. fxe4 exd5 29. Rxd5 Rxd5 30. exd5 Nc5 31. Rd1 Nxb3 32. Rd3 {no hay mas
+jugadas. Ganaron las negras.} 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.1"]
+[White "Barrios Muñoz, Rafael Carlos"]
+[Black "Campos Parejo, Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2008"]
+[BlackElo "2037"]
+[PlyCount "35"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. g3 Bb7 6. Bg2 a5 7. O-O O-O 8. a3
+Be7 9. b3 c5 10. Bb2 Qc7 11. Qc2 Nc6 12. e4 d6 13. d5 Nd4 14. Bxd4 cxd4 15.
+Nxd4 exd5 16. exd5 Nd7 17. Nb5 Qc5 18. Ne4 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.2"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1998"]
+[PlyCount "42"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 Nbd7 7. Nc3 e5 8. e3
+c6 9. Re1 e4 10. Nd2 d5 11. Qb3 Nb6 12. cxd5 cxd5 13. a4 a5 14. Qc2 Bf5 15. Nb3
+Nc4 16. Nc5 b6 17. Nb3 Rc8 18. Bd2 Qd7 19. Rac1 Bh3 20. Ne2 Nxe3 21. Bxh3 Qxh3
+0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.3"]
+[White "Soler Caballero, Juan"]
+[Black "Marañon Canton, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "1894"]
+[Annotator "ACamposP"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+Be3 O-O 9. Qe2 a6 10. O-O-O Qc7 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14. Rg1 Bb7
+15. Rg3 Rfc8 16. f4 Nc5 17. f5 e5 18. Bxf7+ Kxf7 19. Qh5+ Kg8 20. g6 h6 21.
+Bxh6 gxh6 22. Qxh6 Bf6 23. Rxd6 Nxe4 24. Rxf6 Nxf6 25. g7 Nh7 26. Rh3 {y
+despues de muchas complicaciones en apuros de tiempo, la partida acabo en
+tablas por repeticion de jugadas.} Qxg7 27. Rg3 Qxg3 28. Qe6+ Kh8 29. hxg3 Re8
+30. Qf7 b4 31. Nd5 Rad8 32. Nf6 Nxf6 33. Qxf6+ Kg8 34. Qg6+ Kh8 35. Qh6+ {etc.}
+1/2-1/2
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.4"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1562"]
+[Annotator "ACamposP"]
+[PlyCount "44"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be6 8.
+Be3 Nf6 9. Nc4 Bxc4 10. Bxc4 b5 11. Bb3 b4 12. Nd5 Nxe4 13. Bb6 Qg5 14. O-O Kd7
+15. Be3 Qf5 16. Nb6+ Kc7 17. Nxa8+ Kb7 18. Qd5 Be7 19. Ba4 Rc8 20. Nb6 Rc7 21.
+Nc4 Nf6 22. Bxc6+ Rxc6 {y las negras rindieron.} 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.5"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Rivero Mohedano, Pablo Angel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1315"]
+[Annotator "ACamposP"]
+[PlyCount "45"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 e5 4. Nf3 d6 5. Bxc6+ bxc6 6. O-O Bg4 7. d3 Nf6 8.
+Bg5 h6 9. Be3 d5 10. Ne2 d4 11. Bd2 Bxf3 12. gxf3 Bd6 13. f4 exf4 14. Bxf4 Qc7
+15. Bxd6 Qxd6 16. Ng3 O-O 17. Kh1 Rab8 18. Nf5 Qf4 19. Qc1 Qxc1 20. Raxc1 Rxb2
+21. Rg1 g6 22. Ne7+ Kh7 23. Nxc6 {No hay más jugadas anotadas. Finalmente
+ganaron las negras.} 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.6"]
+[White "Trujillo Morales, Jose"]
+[Black "Herrero Nuño, Fernando"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1026"]
+[Annotator "ACamposP"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+{No hay planilla.}  1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "3.7"]
+[White "Herrero Peña, Laura"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1055"]
+[PlyCount "49"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Nbd2 e6 5. Bd3 Bd6 6. b3 e5 7. dxe5 Nxe5 8.
+Bb2 Nxd3+ 9. cxd3 Nf6 10. O-O O-O 11. a3 Bf5 12. Qe2 Re8 13. Rfe1 c6 14. Nd4
+Be5 15. Nxf5 Bxb2 16. Rab1 Be5 17. d4 Bc7 18. f3 Qd7 19. e4 Bb6 20. Rbd1 g6 21.
+Nh6+ Kg7 22. Ng4 Bxd4+ 23. Kf1 Nh5 24. Qd3 Bb6 25. Qc3+ 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Barrios Muñoz, Rafael Carlos"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2008"]
+[PlyCount "55"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. c4 c6 3. e3 e6 4. Nf3 f5 5. Bd3 Nf6 6. O-O Bd6 7. b3 Nbd7 8. Ba3
+Qe7 9. Bxd6 Qxd6 10. Nc3 Ne4 11. Bxe4 fxe4 12. Ng5 O-O 13. f3 h6 14. Nh3 Qb4
+15. Rc1 exf3 16. Rxf3 Nf6 17. Nf4 Bd7 18. Ng6 Rf7 19. Ne5 Re7 20. Qc2 Nh7 21.
+Rcf1 Be8 22. c5 b6 23. Na4 b5 24. Nb2 Qa5 25. Nbd3 Qc7 26. Qf2 Bd7 27. Rf7 Rae8
+28. Ng6 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.2"]
+[White "Marañon Canton, Antonio"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1916"]
+[PlyCount "38"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. c4 c6 6. O-O O-O 7. Qc2 Na6 8. a3
+Nc7 9. cxd5 exd5 10. Nbd2 h6 11. Re1 Nb5 12. a4 Nd6 13. b3 Nde4 14. Nxe4 dxe4
+15. Nd2 Bf5 16. Nxe4 Qxd4 17. Nxf6+ Bxf6 18. Qxf5 Qxa1 19. Be4 g6 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.3"]
+[White "Campos Parejo, Antonio"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2037"]
+[BlackElo "1252"]
+[PlyCount "69"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 Nbd7 6. Nbd2 O-O 7. Bc4 Re8 8.
+Bxf7+ Kxf7 9. Ng5+ Kg8 10. Ne6 Nb6 11. Nxd8 Rxd8 12. O-O Bf5 13. g4 Bd7 14. c3
+Nbd5 15. Bg3 Bc6 16. c4 Nb6 17. f4 a6 18. d5 Ba4 19. b3 Bd7 20. e4 h5 21. e5
+Ne8 22. gxh5 Bxh3 23. Rf2 Bf5 24. hxg6 Bxg6 25. f5 Bh7 26. Qg4 dxe5 27. Bxe5
+Nf6 28. Bxf6 exf6 29. Rg2 Rd7 30. Ne4 Rf8 31. Nc5 Re7 32. Ne6 Rff7 33. Kf2 Nd7
+34. Rh1 Ne5 35. Qh3 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.4"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Soler Caballero, Juan"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "2115"]
+[Annotator "ACamposP"]
+[PlyCount "49"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. e3 Bg7 5. Bd3 O-O 6. Ne2 c5 7. c3 b6 8. Ng3
+Nc6 9. O-O Bb7 10. Re1 Rc8 11. Bd2 Qd6 12. b3 Nd7 13. Qe2 e5 14. dxc5 Nxc5 15.
+Bb5 e4 16. Nd4 Ne5 17. b4 Ne6 18. f4 exf3 19. gxf3 Nc4 20. a4 a6 21. Bxc4 dxc4
+22. Rad1 Ng5 23. f4 Nh3+ 24. Kf1 Rfe8 25. Qg4 {no hay más jugadas. La partida
+finalizó con victtoria negra.} 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.5"]
+[White "Trujillo Morales, Jose"]
+[Black "Rocamora Jimenez, Joaquin"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1359"]
+[PlyCount "43"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7 7. Nbd2 c5 8. c3
+Qb6 9. Qb3 Qxb3 10. axb3 Nd5 11. Bh2 a6 12. c4 Nc7 13. d5 e6 14. Bxd6 Re8 15.
+Bxc7 exd5 16. cxd5 b5 17. Kd1 Ra7 18. Bf4 Nb6 19. Bxb5 Bd7 20. Bxd7 Rxd7 21. e4
+Bxb2 22. Rxa6 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.05"]
+[Round "4.6"]
+[White "Rivero Mohedano, Pablo Angel"]
+[Black "Gonzalez Garrido, Manuel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1315"]
+[PlyCount "68"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e3 e6 5. Nf3 Bb4 6. Bxc4 Ne4 7. Bd2 Nd6 8.
+Bd3 O-O 9. O-O f5 10. a3 Ba5 11. b4 Bb6 12. Na4 Nd7 13. Nc5 Nf6 14. Ne5 c6 15.
+f3 Bc7 16. Qc2 b6 17. Nb3 Bb7 18. Nxc6 Qd7 19. Ne5 Qe7 20. Rac1 Rac8 21. Qb1
+Nf7 22. f4 Nxe5 23. dxe5 Ne4 24. Be1 Rfd8 25. Nd2 Nxd2 26. Bxd2 Qh4 27. Rf2 g5
+28. Be1 Qh5 29. Be2 Qg6 30. Bf3 Bxf3 31. Rxf3 g4 32. Rf2 g3 33. hxg3 Qxg3 34.
+Re2 Qxe3+ 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.1"]
+[White "Gimenez Jimenez, Jesus"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1916"]
+[BlackElo "1998"]
+[Annotator "ACamposP"]
+[PlyCount "41"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. g4 h6 10. Rg1 d5 11. exd5 Nxd5 12. Nxd5 Bxd5 13. Qd2 Nc6 14. O-O-O Bxb3
+15. axb3 Qc7 16. Bc4 Rd8 17. Qe2 Rxd1+ 18. Qxd1 O-O 19. g5 Qa5 20. c3 b5 21.
+Bd5 {No hay más jugadas en la planilla. Las negras ganaron la partida.} 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.2"]
+[White "Soler Caballero, Juan"]
+[Black "Campos Parejo, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2115"]
+[BlackElo "2037"]
+[PlyCount "40"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 Nc6 6. c3 h6 7. O-O Nge7 8. b4
+O-O 9. b5 Na5 10. Bd3 d5 11. Ba3 dxe4 12. Bxe4 Nc4 13. Bb4 Nd6 14. Nbd2 Nef5
+15. Bxd6 cxd6 16. Bxf5 Bxf5 17. Nc4 Rc8 18. Nfd2 Bd3 19. Nb2 Bxf1 20. Nxf1 Rxc3
+0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.3"]
+[White "Cesar Maestre, Eduardo"]
+[Black "Trujillo Morales, Jose"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1252"]
+[BlackElo "1569"]
+[Annotator "ACamposP"]
+[PlyCount "45"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 c5 7. e3 O-O 8. Nc3 d5
+9. Nd2 Na6 10. Re1 cxd4 11. exd4 Nb4 12. a3 Nd3 13. Re3 Nxc1 14. Rxc1 Re8 15.
+Re1 Qd7 16. Qa4 Bc6 17. Qb3 Rac8 18. cxd5 Nxd5 19. Nxd5 Bxd5 20. Bxd5 exd5 21.
+Rxc8 Rxc8 22. Nf3 Bf6 23. Kg2 {No se entienden las siguientes jugadas. La
+partida acabo en tablas.} 1/2-1/2
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.4"]
+[White "Marañon Canton, Antonio"]
+[Black "Serrano Rodriguez, Juan Jose"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1894"]
+[BlackElo "1819"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "5.5"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Muñoz Fernandez, Alfonso"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1562"]
+[PlyCount "56"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 e6 4. d3 g6 5. Be3 a6 6. Bxc6 dxc6 7. Nge2 Bd6 8.
+Qd2 b5 9. O-O Be5 10. Bxc5 Qa5 11. Rab1 b4 12. a3 bxc3 13. Bb4 Qc7 14. Qg5
+Bxh2+ 15. Kh1 Be5 16. f4 Bf6 17. Qg3 cxb2 18. f5 Qxg3 19. Nxg3 Rb8 20. Ne2 exf5
+21. exf5 Bxf5 22. Bc3 Bxc3 23. Nxc3 Nh6 24. Na4 O-O 25. Rxb2 Rxb2 26. Nxb2 Re8
+27. c4 Re2 28. Rb1 Rd2 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.1"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Campos Parejo, Antonio"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1998"]
+[BlackElo "2037"]
+[Annotator "ACamposP"]
+[PlyCount "43"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. a4 b4 5. Bg5 Ne4 6. Qd3 Nxg5 7. Nxg5 e6 8. Nxh7
+c4 9. Qxc4 Rxh7 10. dxe6 f5 11. Qd5 Qg5 12. Nd2 Nc6 13. exd7+ Bxd7 14. Nf3 Qf6
+15. O-O-O O-O-O 16. Nd4 Rh4 17. e4 Rxe4 18. Ba6+ Kc7 19. Nb3 Bc8 20. Qb5 Rxd1+
+21. Rxd1 Bxa6 22. Qxa6 $19 {y las negras pierden por tiempo.} 1-0
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.2"]
+[White "Trujillo Morales, Jose"]
+[Black "Gimenez Jimenez, Jesus"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1569"]
+[BlackElo "1916"]
+[PlyCount "0"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+ 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.3"]
+[White "Rocamora Jimenez, Joaquin"]
+[Black "Marañon Canton, Antonio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1359"]
+[BlackElo "1894"]
+[PlyCount "36"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 g6 5. O-O Bg7 6. Nxd4 cxd4 7. Ne2 e5 8.
+d3 Ne7 9. c3 O-O 10. Bg5 h6 11. Bd2 d5 12. cxd4 exd4 13. Bb4 a6 14. Qa4 Bg4 15.
+f3 axb5 16. Bxe7 Qxe7 17. Qxb5 Be6 18. Nf4 dxe4 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.4"]
+[White "Gonzalez Garrido, Manuel"]
+[Black "Soler Caballero, Juan"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "2115"]
+[PlyCount "66"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bb3 d6 6. c3 Qe7 7. O-O Bg4 8. Nbd2
+O-O-O 9. Bc4 d5 10. Bb5 dxe4 11. dxe4 Nb8 12. Re1 Nh5 13. Qb3 Nf4 14. a4 Qf6
+15. Be2 Rd6 16. Qc4 Rc6 17. Qa2 a5 18. Nc4 Nh3+ 19. gxh3 Bxf3 20. Bxf3 Qxf3 21.
+Be3 Rg6+ 22. Kf1 Qg2+ 23. Ke2 Qxe4 24. Nd2 Qc6 25. Qc4 Bxe3 26. Qxc6 Nxc6 27.
+fxe3 Rg2+ 28. Kd1 Rxh2 29. b4 axb4 30. cxb4 Nxb4 31. a5 Rd8 32. Re2 Rh1+ 33.
+Re1 Rxe1+ 0-1
+
+[Event "II Social Postal Cordobes"]
+[Site "?"]
+[Date "2018.09.06"]
+[Round "6.5"]
+[White "Muñoz Fernandez, Alfonso"]
+[Black "Cesar Maestre, Eduardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1562"]
+[BlackElo "1252"]
+[PlyCount "78"]
+[SourceDate "2018.09.05"]
+[SourceVersionDate "2018.09.05"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e3 d6 5. Bd3 O-O 6. Nge2 Nbd7 7. Bd2 e5 8. b4
+Re8 9. O-O Nb6 10. Qb3 Be6 11. d5 Bd7 12. a4 e4 13. Bc2 c6 14. a5 Nc8 15. Ra2
+Ne7 16. Ng3 cxd5 17. cxd5 Nexd5 18. Nxd5 Nxd5 19. Bxe4 Nf6 20. Qd3 Nxe4 21.
+Nxe4 Be6 22. Rc2 Bf5 23. f3 d5 24. g4 Bxe4 25. fxe4 dxe4 26. Qxd8 Raxd8 27. Rf2
+Rd3 28. Rc7 Rb8 29. Rcxf7 Rxd2 30. Rxg7+ Kxg7 31. Rxd2 h5 32. Rd4 hxg4 33. Rxe4
+Kf6 34. Rxg4 Rd8 35. Kf2 Rd2+ 36. Kg3 Rd1 37. h4 Kf5 38. Rg5+ Ke4 39. Rxg6 Rg1+
+0-1
+
